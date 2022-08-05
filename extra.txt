@@ -1,0 +1,124 @@
+          <!-- Single Video starts -->
+          <div class="video">
+            <div class="video__thumbnail">
+              <img src="thumb1.jpg" alt="" />
+            </div>
+            <div class="video__details">
+              <div class="author">
+                <img src="thumb2.jpg" alt="" />
+              </div>
+              <div class="title">
+                <h3>
+                  My Youtube Clone
+                </h3>
+                <a href="">Rathod IT Services</a>
+                <span>10M Views • 3 Months Ago</span>
+              </div>
+            </div>
+          </div>
+          <!-- Single Video Ends -->
+
+          <!-- Single Video starts -->
+           <div class="video">
+            <div class="video__thumbnail">
+              <img src="thumb4.jpg" alt="" />
+            </div>
+            <div class="video__details">
+              <div class="author">
+                <img src="thumb2.jpg" alt="" />
+              </div>
+              <div class="title">
+                <h3>
+                  My Youtube Clone
+                </h3>
+                <a href="">Rathod IT Services</a>
+                <span>10M Views • 3 Months Ago</span>
+              </div>
+            </div>
+          </div>
+          <!-- Single Video Ends -->
+
+           <!-- Single Video starts -->
+           <div class="video">
+            <div class="video__thumbnail">
+              <img src="thumb3.jpg" alt="" />
+            </div>
+            <div class="video__details">
+              <div class="author">
+                <img src="thumb2.jpg" alt="" />
+              </div>
+              <div class="title">
+                <h3>
+                  My Youtube Clone
+                </h3>
+                <a href="">Rathod IT Services</a>
+                <span>10M Views • 3 Months Ago</span>
+              </div>
+            </div>
+          </div>
+          <!-- Single Video Ends -->
+
+
+
+
+
+
+
+            display: flex;
+  
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+
+
+
+
+      <div class="wrapper">
+        <h2>Please Upload Your Video</h2><br><br>
+        <a href="#" class="close">&times;</a>
+        <div class="content">
+        <a href="" class="upload2">UPLOAD</a>
+        <!-- <input type="file" class="upload2">
+        <span></span> -->
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+    <!-- <section class="progress-area">
+          <li class="row">
+            <i class="fas fa-file-alt"></i>
+            <div class="content">
+              <div class="details">
+                <span class="file_name">image100.png • Uploading</span>
+                <span class="precent">50%</span>
+              </div>
+              <div class="progress-bar">
+                <div class="progress"></div>
+              </div>
+            </div>
+          </li>          
+        </section> -->
+
+          <!-- <section class="uploaded-area">
+       <li class="row">
+        <div class="content">
+          <i class="fas fa-file-alt"></i>
+          <div class="details">
+            <span class="file_name">image100.png • Uploaded</span>
+            <span class="size">70kb</span>
+          </div>
+        </div>
+        <i class="fa fa-check"></i>
+       </li>
+      </section> -->
+      </div>
