@@ -666,11 +666,23 @@ section .details span{
     left: 0px;
   }
 
-  .header_left img{
+  header_left img{
     width: 125px;
-    height: 40px;
+    height: 35px;
     margin-left: 5px;
   }
+
+  .upload{
+  font-size: 1em;
+  padding: 10px 10px;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+  background: #403e3d;
+  border-radius: 100%;
+}
+
 
 
 }
